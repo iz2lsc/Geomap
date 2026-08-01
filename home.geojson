@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "home",
+      "properties": {
+        "name": "Casa",
+        "address": "Via del Sorriso 150, 21040 Cislago (VA), Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.974926,
+          45.642768
+        ]
+      }
+    }
+  ]
+}
